@@ -2,3 +2,15 @@ body{
   padding: 20px 60px;
 }
 
+.button{
+  box-sizing: border-box;
+  border: 1px solid gray;
+  width: 10rem;
+  height: 3rem;
+  color: white;
+  background: black;
+}
+.button:hover {
+  color: black;
+  background-color: white;
+}

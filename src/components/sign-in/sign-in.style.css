@@ -1,0 +1,16 @@
+input {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: gray;
+    display: block;
+    width: 90%;
+    margin-bottom: 2rem ;
+    transition: all 0.25s linear;
+  }
+  input:focus {
+    border-color: green;
+  }
+
+  input[type='password']{
+      letter-spacing: 0.4rem;
+  }
