@@ -1,0 +1,9 @@
+.collection-item{
+    height: 300px;
+    min-width: 250px;
+    margin: 0.6rem;
+}
+.image{
+    height: 95%;
+    background-size: cover;
+}
